@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf_pibby",
-		"player2": "spongebob_pibby",
+		"player1": "bf",
+		"player2": "dad",
 		"notes": [
 			{
 				"lengthInSteps": 16,
